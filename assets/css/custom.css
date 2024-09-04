@@ -1,0 +1,30 @@
+.btn1{
+    display: inline-block;
+    padding: 12px 15px;
+    background-color: #5a2a8f;
+    color: #ffffff;
+    border-radius: 5px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: 1px solid #5a2a8f;
+}
+
+.btn1:hover {
+    color: #ffffff;
+    -webkit-transform: translateY(-3px);
+    transform: translateY(-3px);
+}
+
+.info_links a , .contact_link_box a , .detail-box a{
+    text-decoration: none;
+}
+
+.container-fluid a{
+    color: #7335b7;
+}
+
+.modal-body a{
+    color: #7335b7;
+    text-decoration: none;
+    font-weight: bold;
+}
